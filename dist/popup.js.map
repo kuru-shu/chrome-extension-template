@@ -1,0 +1,1 @@
+{"version":3,"file":"popup.js","mappings":";;;;AAAA;AACA;AACA","sources":["webpack://chrome-extension/./src/popup.js"],"sourcesContent":["document.getElementById('testButton').addEventListener('click', () => {\n  alert('Button clicked!');\n});\n"],"names":[],"sourceRoot":""}
