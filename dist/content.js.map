@@ -1,1 +1,0 @@
-{"version":3,"file":"content.js","mappings":";;;;AAAA","sources":["webpack://chrome-extension/./src/content.js"],"sourcesContent":["console.log(\"Content script loaded.\");"],"names":[],"sourceRoot":""}
